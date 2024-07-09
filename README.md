@@ -14,11 +14,35 @@ You can download my CV in my Google drive here
 https://docs.google.com/file/d/1SRNMDZYcLXtO40kJX3K2gDrkBXc3cHFb/edit?usp=docslist_api&filetype=msword
 
 # Skills
- Jira
- Unity
+Research & Data analysis
+- Familiar with research process and analitical data
+- Write a research proposal and edit according to ethic committee
 
+Clinical Data Collection
+- Appiled data from raw material to be entered into an online database.
+- Interview patients and collect their consent
 
+SQL Database
+- Write simple request to pull client's information.
+
+Communication
+- Create games' event in the forum and Facebook
+- Communicate with players on their issues and solve them, or refer to the team.
+  
 # Tools
+Jira
+- Able to creat bug reports which include pictures and how to reproduce.
+- Prioritize tasks and assign to relevent individual or team.
+- Create projects and track progress.
 
+Unity
+- Test games on tools and report bugs.
 
-# Course
+Confluence
+- Create a journal for customer teams on how to use certain tools.
+
+Macro & Redcap
+- Enter patients' data according to CRF and patients' files.
+
+Diagram
+- Create patients' family tree.
