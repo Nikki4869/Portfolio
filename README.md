@@ -10,4 +10,15 @@ Currently, I wish to use my research experience and data collection to join a ga
 It would be a great experience for me to become a QA tester to gain more experience in the mid to senior level in the company.
 
 # CV
-You can download my CV in my Google drive here.
+You can download my CV in my Google drive here
+https://docs.google.com/file/d/1SRNMDZYcLXtO40kJX3K2gDrkBXc3cHFb/edit?usp=docslist_api&filetype=msword
+
+# Skills
+ Jira
+ Unity
+
+
+# Tools
+
+
+# Course
